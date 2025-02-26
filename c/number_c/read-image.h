@@ -1,0 +1,1 @@
+void load_mnist_images(const char *filename, unsigned char **data, int num_images_to_read);
